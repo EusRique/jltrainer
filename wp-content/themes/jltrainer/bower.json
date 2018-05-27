@@ -1,0 +1,18 @@
+{
+  "name": "jltrainer",
+  "authors": [
+    "Henrique Camargo <contato@henrique-camargo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
